@@ -2,6 +2,14 @@
 
 > **BREAKING**: The first native GPU-accelerated computation addon for Node.js - _A new era is dawning - 2025.09.15_
 
+## ⚠️ Project Status: Suspended until Q2 2026
+
+**Effective immediately, development of this project is suspended.** 
+
+As a business owner, I must prioritize my profitable ventures and clients over.
+
+I am archiving the current state of the project to focus on my primary business. I will re-evaluate the market situation and potential sponsorship opportunities at the end of Q2 2026.
+
 ## What is this Repo
 
 Hello World! My name is **Zsolt Tövis** and I officially announce that **on September 15, 2025, I successfully ran
